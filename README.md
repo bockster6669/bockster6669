@@ -6,7 +6,7 @@ Web developer
 
 * 🌍  I'm based in Sofia
 * ✉️  You can contact me at [borishubavenski7@gmail.com](mailto:borishubavenski7@gmail.com)
-* 🧠  I'm learning JS, React, Tailwind, UI, C#
+* 🧠  Currently learning AWS
 * 🤝  I'm open to collaborating on web projects and fivem projects
 * ⚡  I also like to play FiveM and create scripts for it in my free time
 
