@@ -1,11 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boris Hubavenski
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boris
 ========================================================================================================================================
 
 Web developer
 -------------
 
 * 🌍  I'm based in Sofia
-* ✉️  You can contact me at [borishubavenski7@gmail.com](mailto:borishubavenski7@gmail.com)
 * 🧠  Currently learning AWS
 * 🤝  I'm open to collaborating on web projects and fivem projects
 * ⚡  I also like to play FiveM and create scripts for it in my free time
